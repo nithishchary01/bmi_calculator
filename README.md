@@ -12,7 +12,16 @@ A simple and clean Android application that calculates the **Body Mass Index (BM
 
 ## 🚀 Screenshots
 
-*Add screenshots here if you have any*
+## 📱 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](BMIHome.jpg)
+
+### 📊 BMI Result Screen
+![Result Screen](BMIOver.jpg)
+![Result Screen](BMIUnder.jpg)
+![Result Screen](BMIHealthy.jpg)
+
 
 ## 🛠️ Tech Stack
 
